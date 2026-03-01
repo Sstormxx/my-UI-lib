@@ -77,6 +77,12 @@ UI.AddTextBox(SettingsTab, "Config Name", "Enter name...", function(text)
     print("Config:", text)
 end)
 
+-- INPUTBOX
+
+local input = StormWare.AddInputBox(mySection, "Username", "Enter your name...", "Player1", function(value)
+    print("Input changed:", value)
+end)
+
 -- LABEL (just text)
 
 UI.AddLabel(SettingsTab, "StormWare v1.0 - Made with 💙")
