@@ -67,3 +67,6 @@ end)
  LABEL (just text)
 UI.AddLabel(SettingsTab, "StormWare v1.0 - Made with 💙")
 UI.AddLabel(SettingsTab, "Press RightShift to toggle UI")
+
+<img width="745" height="537" alt="image" src="https://github.com/user-attachments/assets/4bbb3dbe-0493-4c7f-902e-3f2ff7808869" />
+
