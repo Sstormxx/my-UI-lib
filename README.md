@@ -3,8 +3,7 @@ local UI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sstormxx/m
  Change title
 UI.SetTitle("MY SCRIPT")
 
- Change toggle key from RightShift to Insert
-UI.SetToggleKey(Enum.KeyCode.Insert)
+UI.SetToggleKey(Enum.KeyCode.RightShift)
 
  Create tabs
 local MainTab = UI.AddTab("Main", "⚡")
